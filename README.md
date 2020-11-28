@@ -14,5 +14,9 @@ you'll be treated with a useful app. (like Wikipedia, Quora, Google Books, etc).
  
 I don't know if it will work. I am going to experiment with this on myself 😁. 
 
+## Download 📥
+
+- Download [APK](app/release/app-release.apk)
+
 ## Author 👍
 - theapache64
