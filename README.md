@@ -3,11 +3,11 @@
 > I have this bad habit of wandering through the YouTube feed whenever am bored. I mean, I know it's not just me, 
 almost all of us fell into the YouTube rabbit hole easily. This is an attempt to replace that habit with something good. ;)
 
-## Output
+## Demo ✌️
 
 ![](demo.gif)
 
-## How does it work?
+## How does it work? 🤷
 
 The logic is pretty simple (or dumb). 
 - First, you should `Disable` the original `YouTube` app, 
