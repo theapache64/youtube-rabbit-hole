@@ -10,7 +10,9 @@ The logic is pretty simple (or dumb).
 - Then install the `Youtube-Rabbit-Hole (YRH)` app.
 
 Since `YRH` got the same `YouTube` logo and name, whenever you click on `YouTube`,
-you'll be treated with a useful app. (like Wikipedia, Quora, Google Books, etc) I don't know if it will work. I am going to experiment with this on myself 😁. 
+you'll be treated with a useful app. (like Wikipedia, Quora, Google Books, etc).
+ 
+I don't know if it will work. I am going to experiment with this on myself 😁. 
 
 ## Author 👍
 - theapache64
