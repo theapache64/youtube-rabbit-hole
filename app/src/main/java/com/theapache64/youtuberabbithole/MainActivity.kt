@@ -1,4 +1,4 @@
-package com.theapache64.youtube
+package com.theapache64.youtuberabbithole
 
 import android.content.Intent
 import android.net.Uri

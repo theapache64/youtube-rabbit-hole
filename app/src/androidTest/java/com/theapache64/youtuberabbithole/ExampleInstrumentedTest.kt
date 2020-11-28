@@ -1,4 +1,4 @@
-package com.theapache64.youtube
+package com.theapache64.youtuberabbithole
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
