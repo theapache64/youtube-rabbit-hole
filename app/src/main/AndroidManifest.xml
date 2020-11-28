@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.YouTube">
-        <activity android:name="com.theapache64.youtuberabbithole.MainActivity">
+        <activity android:name="com.theapache64.youtuberabbithole.feature.main.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
