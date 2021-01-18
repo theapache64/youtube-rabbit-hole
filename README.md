@@ -16,7 +16,7 @@ The logic is pretty simple (or dumb).
 Since `YRH` has the same `YouTube` logo and name, whenever you click on `YouTube`,
 you'll be treated with a useful app. (like Wikipedia, Quora, Google Books, etc).
  
-I don't know if it will work. I am going to experiment with this on myself 😁. 
+I don't know if it would work. I am going to experiment with this on myself 😁. 
 
 ## Download 📥
 
