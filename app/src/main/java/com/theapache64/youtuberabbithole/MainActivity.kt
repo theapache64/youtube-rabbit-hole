@@ -1,17 +1,17 @@
 package com.theapache64.youtuberabbithole
 
+import android.app.Activity
 import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
-import androidx.core.app.ComponentActivity
 
-class MainActivity : ComponentActivity() {
+class MainActivity : Activity() {
 
     companion object {
         private val goodApps = listOf(
-                "com.quora.android", // Quora
-                "com.google.android.apps.books", // Google Books
-                // add as many good apps here
+            "com.quora.android", // Quora
+            "com.google.android.apps.books", // Google Books
+            // add as many good apps here
         )
     }
 

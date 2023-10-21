@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'com.theapache64.youtuberabbithole'
-    compileSdkVersion 34
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.theapache64.youtuberabbithole"
@@ -30,11 +30,4 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
-}
-
-dependencies {
-
-    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
-    implementation 'androidx.core:core-ktx:1.12.0'
-
 }
