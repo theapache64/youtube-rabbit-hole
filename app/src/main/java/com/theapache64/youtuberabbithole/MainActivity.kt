@@ -1,11 +1,11 @@
-package com.theapache64.youtuberabbithole.feature.main
+package com.theapache64.youtuberabbithole
 
 import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
-import androidx.appcompat.app.AppCompatActivity
+import androidx.core.app.ComponentActivity
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : ComponentActivity() {
 
     companion object {
         private val goodApps = listOf(
