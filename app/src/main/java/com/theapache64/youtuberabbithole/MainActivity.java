@@ -5,19 +5,15 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Random;
 
 public class MainActivity extends Activity {
 
-    private static final List<String> goodApps = new ArrayList<>();
-
-    static {
-        goodApps.add("com.quora.android"); // Quora
-        goodApps.add("com.google.android.apps.books"); // Google Books
-        // add as many good apps here
-    }
+    private static final String[] goodApps = new String[]{
+            "com.quora.android", // Quora
+            "com.google.android.apps.books"  // Google Books
+            // add as many good apps here
+    };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,7 +35,7 @@ public class MainActivity extends Activity {
 
     private String getRandomPackageName() {
         Random random = new Random();
-        int index = random.nextInt(goodApps.size());
-        return goodApps.get(index);
+        int index = random.nextInt(goodApps.length);
+        return goodApps[index];
     }
 }
